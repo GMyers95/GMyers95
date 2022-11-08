@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/georgia-myers/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:GMyers95@live.com">
+  <img src="https://github.com/PlanetWilson/Office365icons/blob/master/Outlook_OfficeCore10_32x_24x_20x_16x_01-22-2019.svg" width="20" height="20"/>
+  </a>
   
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
