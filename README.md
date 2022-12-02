@@ -71,6 +71,11 @@ class WhoAmI:
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=GMyers95&style=flat-square&color=blue" alt=""/>
   </div>
+  
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/j5Qgf8rf2VYnoWH3SY/giphy.gif" width="150">
+</div>
+  
   <!-- https://www.sitepoint.com/github-profile-readme/ >
 <!-- https://github.com/MarikIshtar007/MarikIshtar007/blob/master/README.md >
 <!-- https://martinheinz.dev/blog/29 >
