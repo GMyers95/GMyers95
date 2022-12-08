@@ -1,6 +1,10 @@
 ## 👋 Hi, I’m Georgia.
 - 🍎 I’m currently a Data Analysis/Visualization BootCamp Student.
 - 👀 I’m looking for a position that enables me to have a healthy, happy work-life balance.
+- 👩‍💼 My 
+  <a href="https://drive.google.com/file/d/1mCEcsdofFQ82FAShtfTsOi2UPqZ_ovi7/view?usp=sharing">
+  <img src="https://img.shields.io/badge/-Resume-blueviolet?style=plastic" width="60" height="20"/>
+  </a>
 - 📫 How to reach me ...
   <a href="https://www.linkedin.com/in/georgia-myers/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
