@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Georgia.
-- 🍎 I’m currently a Data Analysis/Visualization BootCamp Student.
+- 📊 I’m a certified Data Analyst with a strong background in STEM and the ability/devotion to always be learning.
 - 👀 I’m looking for a position that enables me to have a healthy, happy work-life balance.
 - 👩‍💼 My 
   <a href="https://drive.google.com/file/d/1GyjX5UiLBV-tLpf_bY4M_fyUqYoNxDGy/view?usp=sharing">
@@ -47,7 +47,7 @@ class WhoAmI:
         user = 'Georgia Myers'
 
    	current_work = [
-   			'BootCamp Student',
+   			'Data Analyst',
    			'Lab Tech',
    			'Rover sitter',
    			'AirBnB Host'
@@ -79,7 +79,7 @@ class WhoAmI:
   <img src="https://komarev.com/ghpvc/?username=GMyers95&style=flat-square&color=blue" alt=""/>
   </div>
   
-  
+  <!-- Profile Readme inspiration sources: >
   <!-- https://www.sitepoint.com/github-profile-readme/ >
 <!-- https://github.com/MarikIshtar007/MarikIshtar007/blob/master/README.md >
 <!-- https://martinheinz.dev/blog/29 >
