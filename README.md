@@ -2,7 +2,7 @@
 - 📊 I’m a certified Data Analyst with a strong background in STEM and the ability/devotion to always be learning.
 - 👀 I’m looking for a position that enables me to have a healthy, happy work-life balance.
 - 👩‍💼 My 
-  <a href="https://drive.google.com/file/d/1GyjX5UiLBV-tLpf_bY4M_fyUqYoNxDGy/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1oyolhuibrbLA41Ng-e6CVUfo0KSRgota/view?usp=sharing">
   <img src="https://img.shields.io/badge/-Resume-blueviolet?style=plastic" width="60" height="20"/>
   </a>
 - 📫 How to reach me ...
